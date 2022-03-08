@@ -1,0 +1,16 @@
+.finalresultvaluse{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 90px;
+}
+.finalresultvaluse > h1{
+    color: black;
+    font-family: cursive;
+}
+.finalresultvaluse  a{
+    color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

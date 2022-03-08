@@ -1,0 +1,11 @@
+.homediv{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 450px;
+    background-color: aquamarine;
+}
+.ready{
+    font-family: 'Courier New', Courier, monospace;
+}
